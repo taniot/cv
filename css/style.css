@@ -1,0 +1,29 @@
+/*
+Common
+*/
+
+/*
+Intestazione
+*/
+
+header {
+  background-color: rgb(221, 219, 219);
+  text-align: center;
+  border-bottom: 3px solid brown;
+}
+
+.img-web-developer {
+  width: 100px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+/*
+Main
+*/
+
+/*
+Footer
+*/
